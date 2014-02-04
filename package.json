@@ -1,14 +1,14 @@
 {
   "name": "grunt-node-webkit-builder",
   "version": "0.1.0",
-  "description": "node-webkit build task for grunt",
-  "main": "index.js",
+  "description": "node-webkit build task for grunt (Mac OS only)",
+  "main": "index.html",
   "scripts": {
     "test": "npm test"
   },
   "repository": {
     "type": "git",
-    "url": "aaa"
+    "url": "https://github.com/ysugimoto/grunt-node-webkit-builder.git"
   },
   "keywords": [
     "node-webkit",
@@ -18,5 +18,8 @@
   "license": "MIT",
   "dependencies": {
     "nodewebkit": "~0.8.4-2"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2"
   }
 }
