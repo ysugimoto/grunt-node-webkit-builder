@@ -1,0 +1,22 @@
+{
+  "name": "grunt-node-webkit-builder",
+  "version": "0.1.0",
+  "description": "node-webkit build task for grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "aaa"
+  },
+  "keywords": [
+    "node-webkit",
+    "grunt"
+  ],
+  "author": "Yoshiaki Sugimoto",
+  "license": "MIT",
+  "dependencies": {
+    "nodewebkit": "~0.8.4-2"
+  }
+}
